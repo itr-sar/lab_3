@@ -5,7 +5,7 @@ Siga paso a paso los comandos en este documento y grabe un video de su servidor 
 
 ### Creación de Scripts
 
-1. Crear un nuevo script llamado ```miscript.sh```
+1. Crear un nuevo script llamado ```myscript.sh```
 
   Ingrese las siguientes líneas al script
   
